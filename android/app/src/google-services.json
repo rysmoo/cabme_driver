@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1020054999576",
+    "project_id": "metrogo-19202",
+    "storage_bucket": "metrogo-19202.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020054999576:android:d69f32dad8c2260c7ee96d",
+        "android_client_info": {
+          "package_name": "com.metrogo.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020054999576-ea15mrvtnnkpl14d5ujbb7q41a8bgil1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsujjPLCFWGeR5ebkFUHRqq9NHOPKxM-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020054999576-c0trhvv4il1ed0c919pppl84fuh6k34f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020054999576:android:f1da9fa36ca2b05b7ee96d",
+        "android_client_info": {
+          "package_name": "com.metrogo.rider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020054999576-ea15mrvtnnkpl14d5ujbb7q41a8bgil1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsujjPLCFWGeR5ebkFUHRqq9NHOPKxM-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020054999576-c0trhvv4il1ed0c919pppl84fuh6k34f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
